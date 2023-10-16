@@ -1,6 +1,7 @@
 programa
 {
 	//código para calcular o valor total de garçom por horas de evento
+
 	funcao inicio()
 	{
 		inteiro garcom, horas 
