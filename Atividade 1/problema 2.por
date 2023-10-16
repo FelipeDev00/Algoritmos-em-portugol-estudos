@@ -1,7 +1,8 @@
 programa
 {
 	//código para calcular litros de café, água e salgadinhos necesários para um evento por pessoa
-funcao inicio()
+
+	funcao inicio()
 	{
 		real cafe, agua
 		inteiro salgadinhos, convidados
