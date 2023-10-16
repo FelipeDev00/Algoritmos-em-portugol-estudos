@@ -1,5 +1,6 @@
 programa
 {
+	//código para calcular o número de convidados e falar qual o auditório é o mais indicado
 
 	funcao inicio()
 	{
