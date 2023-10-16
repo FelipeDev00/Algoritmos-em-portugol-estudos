@@ -1,5 +1,6 @@
 programa
 {
+	//código para calcular a opção escolhida pelo usuário e responder de acordo com as opções disponíveis
 
 	funcao inicio()
 	{	caracter opcao
