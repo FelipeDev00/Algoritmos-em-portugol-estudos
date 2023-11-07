@@ -1,5 +1,7 @@
 programa
 {
+	//Menu de opções para um sistema de hotel em que o usuário pode selecionar entre cadastro de hóspedes, lista de hóspedes cadastrados, cadastro de área de lazer por hóspede
+	//mostrar o total de despesas por hóspede e uma ultima opção de sair e encerrar o sistema. Código e estruturas focadas em funções e procedimentos para fins de estudos e aprendizagem.
 	cadeia nome [10]
 	cadeia dados
 	cadeia cpf [10]
